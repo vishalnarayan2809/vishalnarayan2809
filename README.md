@@ -10,7 +10,7 @@ Bengaluru, India · React / TypeScript · Node.js / Express · React Native · P
   <a href="https://vishalnarayan.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/vishalnarayan2809/">
+  <a href="https://www.linkedin.com/in/vishal-n-b95690217/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:vishalnarayan2809@gmail.com">
