@@ -4,7 +4,7 @@
 
 ### Full-stack engineer building production web, mobile & agentic AI products.
 
-Bengaluru, India · React / TypeScript · Node.js / Express · React Native · PostgreSQL / MongoDB · AI systems
+Bengaluru, India · React / TypeScript · Node.js / Express · React Native · Kotlin / Swift · AI systems
 
 <p>
   <a href="https://vishalnarayan.netlify.app/">
@@ -26,7 +26,7 @@ Bengaluru, India · React / TypeScript · Node.js / Express · React Native · P
 
 I’m a full-stack developer working across the entire product path: interaction design, React/TypeScript frontends, Node/Express services, data modelling, deployment, mobile apps, background workflows and AI integrations.
 
-I currently work in a production MERN codebase and build products independently outside work. My recent projects have pushed me deeper into React Native/Expo, Supabase/PostgreSQL, Redis, Docker/AWS, realtime systems, model routing, RAG and multi-agent orchestration.
+I currently work in a production MERN codebase and build products independently outside work. My recent projects have pushed me deeper into React Native/Expo, native Android/macOS development, secure local networking, Supabase/PostgreSQL, Docker/AWS, model routing and multi-agent orchestration.
 
 I use coding agents aggressively for speed, but I still review generated code for correctness, maintainability and architecture rather than shipping it blind.
 
@@ -58,15 +58,26 @@ An Android-first accountability platform built around commitments, squads, reput
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### ⚙️ Catalyst
 
-A VS Code-first, local-first AI Product Studio that turns an existing product idea into structured implementation artifacts for coding agents. It includes specialised agents, structured handoffs, model profiles, routing/fallbacks, retries, provider integrations and workspace-aware generation.
+A local-first VS Code AI Product Studio that turns product plans into structured implementation artifacts for coding agents, with specialist agents, model routing, fallbacks and workspace-aware handoffs.
 
-**TypeScript · VS Code Extension API · Node.js · Multi-agent orchestration · Gemini · Groq · OpenRouter · Figma/Stitch intake**
+**TypeScript · VS Code Extension API · Node.js · Gemini · Groq · OpenRouter**
 
-<sub>Private project · active development</sub>
+[**VS Code Marketplace ↗**](https://marketplace.visualstudio.com/items?itemName=vishaln.catalyst-studio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔗 Local Bridge
+
+Native Android and macOS companions for notifications, clipboard, files, photos, media controls and screen sharing, with secure local Wi-Fi and authenticated Bluetooth LE fallback.
+
+**Kotlin · Jetpack Compose · SwiftUI · Network.framework · BLE · TLS**
+
+[**Website & personal builds ↗**](https://local-bridge.netlify.app/)
 
 </td>
 </tr>
@@ -83,6 +94,7 @@ A VS Code-first, local-first AI Product Studio that turns an existing product id
 | Area | Tools I use |
 |---|---|
 | **Frontend & mobile** | React, TypeScript, React Native, Expo, Tailwind CSS, NativeWind, Redux Toolkit, RTK Query, Zustand, TanStack Query |
+| **Native & networking** | Kotlin, Jetpack Compose, Swift, SwiftUI, Bonjour/mDNS, Bluetooth LE, certificate-pinned TLS, Android Keystore, macOS Keychain |
 | **Backend** | Node.js, Express, REST APIs, Zod, JWT, RBAC, Redis, background workers, cron jobs, notifications |
 | **Data** | PostgreSQL, Supabase, MongoDB, Mongoose, SQL migrations, pgvector, aggregation, indexing, transactions |
 | **AI / agentic** | Multi-agent orchestration, model routing & failover, RAG, Groq, Gemini, GPT-4o, Ollama, OpenAI-compatible endpoints |
